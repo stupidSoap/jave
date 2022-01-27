@@ -1,2 +1,2 @@
 # jave
-official jave(Java Audio Video Encode) from www.sauronsoftware.it
+official jave(Java Audio Video Encode) from www.sauronsoftware.it
